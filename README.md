@@ -25,8 +25,7 @@
 
  1. Fork 本项目到自己的 GitHub 账户（用户名以 `sinnerkuma` 为例）
  2. 修改项目名称，注意不要包含 `v2ray` 和 `heroku` 两个关键字（修改后的项目名以 `heroku-vmess-trojan-argo` 为例）
- 3. 登陆heroku后，一键部署
-[![Deploy]https://dashboard.heroku.com/new?template=https://github.com/sinnerkuma/heroku-vmess-trojan-argo
+ 3. 登陆heroku后，一键部署[![Deploy]https://dashboard.heroku.com/new?template=https://github.com/sinnerkuma/heroku-vmess-trojan-argo]
 ### 变量
 
 对部署时需设定的变量名称做如下说明。
